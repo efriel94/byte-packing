@@ -3,7 +3,7 @@
  * @file    byte_packing.cpp
  * @brief   Program demonstrates basic byte packing from an uint64_t array to uint8_t and then back to uint64_t.
  *          Illustrating how the data is represented during all stages of packing.
- * @author  Emmet Friel, Neil Hanley
+ * @author  Emmet Friel
  * @date    09/04/2021
  * 
  *******************************************/ 
